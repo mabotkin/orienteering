@@ -1,2 +1,2 @@
-# orienteering
-This is a program to generate an Orienteering Round.  The program should output a series of room assignments for easy setup of the paths of each team.  Currently, work is being done to also generate a mapping between the answer and room number for each problem.  Designed for TJIMO 2016.
+# Orienteering Round Generator
+This is a program to generate an Orienteering Round.  The program should output a series of room assignments for easy setup of the paths of each team.  The program also outputs a direction for each team to map its answer to the next room number (some are degenerate, i.e. multiply by 1 or subtract 0, but this should be easily fixed in a later update).  Designed for TJIMO 2016.
