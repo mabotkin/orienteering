@@ -57,7 +57,7 @@ for i in range(NUMTEAMS):
 				a = int(ans[j])/int(tmp)
 				b = int(ans[j])/a - tmp
 				text = "Take your answer, divide by " + str(a) + " and throw away the remainder, and subtract " + str(b) + ". This is your next room number."
-			else if ans[j] < tmp:
+			elif ans[j] < tmp:
 				a = int(tmp)/int(ans[j])
 				b = tmp - a*ans[j]
 				text = "Take your answer, multiply by " + str(a) + ", and add " + str(b) + ". This is your next room number."
