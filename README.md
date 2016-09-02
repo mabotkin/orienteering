@@ -7,10 +7,12 @@ In the file "rooms.txt", list all room numbers to be used in the generation.  Th
 
 In the file "ans.txt", list the answers to questions in correct order so the program can generate mappings between answers and room numbers.
 
-To run the program, type
+To run the program, type:
 
 ```bash
 $ python gen.py
 ```
+
+The output should be produced in a file named "out.txt".
 
 This program is designed for Python 2 but aside from print statements should be compatible with Python 3 as well.
