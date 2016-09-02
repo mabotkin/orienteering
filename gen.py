@@ -56,11 +56,21 @@ for i in range(NUMTEAMS):
 			if ans[j] > tmp: #handle differently for greater than or less than answer
 				a = int(ans[j])/int(tmp)
 				b = int(ans[j])/a - tmp
-				text = "Take your answer, divide by " + str(a) + " and throw away the remainder, and subtract " + str(b) + ". This is your next room number."
+				if a == 1:
+					text = "Take your answer and subtract " + str(b) + ". This is your next room number."
+				if b == 0:
+					text = "Take your answer and divide by " + str(a) + " and throw away the remainder. This is your next room number."
+				else:
+					text = "Take your answer, divide by " + str(a) + " and throw away the remainder, and subtract " + str(b) + ". This is your next room number."
 			elif ans[j] < tmp:
 				a = int(tmp)/int(ans[j])
 				b = tmp - a*ans[j]
-				text = "Take your answer, multiply by " + str(a) + ", and add " + str(b) + ". This is your next room number."
+				if a == 1:
+					text = "Take your answer and add " + str(b) + ". This is your next room number."
+				if b == 0:
+					text = "Take your answer and multiply by " + str(a) + ". This is your next room number."
+				else:	
+					text = "Take your answer, multiply by " + str(a) + ", and add " + str(b) + ". This is your next room number."
 			else: #if equal just go there
 				text = "Your answer is your next room number."
 			assign[i][j] = (assign[i][j],text,tmp)

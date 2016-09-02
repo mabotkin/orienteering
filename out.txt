@@ -1,240 +1,240 @@
 TEAM 1
-Question 0 - CURRENT ROOM NUMBER: 15 DIRECTION: Take your answer, multiply by 24, and add 0. This is your next room number. NEXT ROOM NUMBER: 24
-Question 1 - CURRENT ROOM NUMBER: 24 DIRECTION: Take your answer, multiply by 5, and add 0. This is your next room number. NEXT ROOM NUMBER: 10
-Question 2 - CURRENT ROOM NUMBER: 10 DIRECTION: Take your answer, multiply by 2, and add 1. This is your next room number. NEXT ROOM NUMBER: 7
-Question 3 - CURRENT ROOM NUMBER: 7 DIRECTION: Take your answer, multiply by 1, and add 2. This is your next room number. NEXT ROOM NUMBER: 6
-Question 4 - CURRENT ROOM NUMBER: 6 DIRECTION: Take your answer, multiply by 3, and add 1. This is your next room number. NEXT ROOM NUMBER: 16
-Question 5 - CURRENT ROOM NUMBER: 16 DIRECTION: Take your answer, multiply by 4, and add 5. This is your next room number. NEXT ROOM NUMBER: 29
-Question 6 - CURRENT ROOM NUMBER: 29 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
+Question 0 - CURRENT ROOM NUMBER: 25 DIRECTION: Take your answer and multiply by 27. This is your next room number. NEXT ROOM NUMBER: 27
+Question 1 - CURRENT ROOM NUMBER: 27 DIRECTION: Take your answer and multiply by 9. This is your next room number. NEXT ROOM NUMBER: 18
+Question 2 - CURRENT ROOM NUMBER: 18 DIRECTION: Take your answer, multiply by 9, and add 2. This is your next room number. NEXT ROOM NUMBER: 29
+Question 3 - CURRENT ROOM NUMBER: 29 DIRECTION: Take your answer, multiply by 1, and add 2. This is your next room number. NEXT ROOM NUMBER: 6
+Question 4 - CURRENT ROOM NUMBER: 6 DIRECTION: Take your answer and multiply by 2. This is your next room number. NEXT ROOM NUMBER: 10
+Question 5 - CURRENT ROOM NUMBER: 10 DIRECTION: Take your answer, multiply by 2, and add 1. This is your next room number. NEXT ROOM NUMBER: 13
+Question 6 - CURRENT ROOM NUMBER: 13 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
 TEAM 2
-Question 0 - CURRENT ROOM NUMBER: 4 DIRECTION: Take your answer, multiply by 6, and add 0. This is your next room number. NEXT ROOM NUMBER: 6
-Question 1 - CURRENT ROOM NUMBER: 6 DIRECTION: Take your answer, multiply by 13, and add 1. This is your next room number. NEXT ROOM NUMBER: 27
-Question 2 - CURRENT ROOM NUMBER: 27 DIRECTION: Your answer is your next room number. NEXT ROOM NUMBER: 3
-Question 3 - CURRENT ROOM NUMBER: 3 DIRECTION: Take your answer, multiply by 6, and add 1. This is your next room number. NEXT ROOM NUMBER: 25
-Question 4 - CURRENT ROOM NUMBER: 25 DIRECTION: Take your answer, multiply by 5, and add 3. This is your next room number. NEXT ROOM NUMBER: 28
-Question 5 - CURRENT ROOM NUMBER: 28 DIRECTION: Take your answer, multiply by 2, and add 3. This is your next room number. NEXT ROOM NUMBER: 15
-Question 6 - CURRENT ROOM NUMBER: 15 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
+Question 0 - CURRENT ROOM NUMBER: 13 DIRECTION: Take your answer and multiply by 15. This is your next room number. NEXT ROOM NUMBER: 15
+Question 1 - CURRENT ROOM NUMBER: 15 DIRECTION: Take your answer, multiply by 12, and add 1. This is your next room number. NEXT ROOM NUMBER: 25
+Question 2 - CURRENT ROOM NUMBER: 25 DIRECTION: Take your answer, multiply by 4, and add 2. This is your next room number. NEXT ROOM NUMBER: 14
+Question 3 - CURRENT ROOM NUMBER: 14 DIRECTION: Take your answer, multiply by 6, and add 2. This is your next room number. NEXT ROOM NUMBER: 26
+Question 4 - CURRENT ROOM NUMBER: 26 DIRECTION: Take your answer, multiply by 4, and add 4. This is your next room number. NEXT ROOM NUMBER: 24
+Question 5 - CURRENT ROOM NUMBER: 24 DIRECTION: Take your answer and divide by 6 and throw away the remainder. This is your next room number. NEXT ROOM NUMBER: 1
+Question 6 - CURRENT ROOM NUMBER: 1 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
 TEAM 3
-Question 0 - CURRENT ROOM NUMBER: 1 DIRECTION: Take your answer, multiply by 23, and add 0. This is your next room number. NEXT ROOM NUMBER: 23
-Question 1 - CURRENT ROOM NUMBER: 23 DIRECTION: Take your answer, multiply by 11, and add 0. This is your next room number. NEXT ROOM NUMBER: 22
-Question 2 - CURRENT ROOM NUMBER: 22 DIRECTION: Your answer is your next room number. NEXT ROOM NUMBER: 3
-Question 3 - CURRENT ROOM NUMBER: 3 DIRECTION: Take your answer, divide by 2 and throw away the remainder, and subtract 0. This is your next room number. NEXT ROOM NUMBER: 2
-Question 4 - CURRENT ROOM NUMBER: 2 DIRECTION: Take your answer, multiply by 6, and add 0. This is your next room number. NEXT ROOM NUMBER: 30
-Question 5 - CURRENT ROOM NUMBER: 30 DIRECTION: Take your answer, multiply by 2, and add 0. This is your next room number. NEXT ROOM NUMBER: 12
-Question 6 - CURRENT ROOM NUMBER: 12 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
+Question 0 - CURRENT ROOM NUMBER: 22 DIRECTION: Take your answer and multiply by 21. This is your next room number. NEXT ROOM NUMBER: 21
+Question 1 - CURRENT ROOM NUMBER: 21 DIRECTION: Take your answer, multiply by 8, and add 1. This is your next room number. NEXT ROOM NUMBER: 17
+Question 2 - CURRENT ROOM NUMBER: 17 DIRECTION: Take your answer, multiply by 2, and add 1. This is your next room number. NEXT ROOM NUMBER: 7
+Question 3 - CURRENT ROOM NUMBER: 7 DIRECTION: Take your answer, multiply by 2, and add 2. This is your next room number. NEXT ROOM NUMBER: 10
+Question 4 - CURRENT ROOM NUMBER: 10 DIRECTION: Take your answer, divide by 1 and throw away the remainder, and subtract 2. This is your next room number. NEXT ROOM NUMBER: 3
+Question 5 - CURRENT ROOM NUMBER: 3 DIRECTION: Take your answer and multiply by 3. This is your next room number. NEXT ROOM NUMBER: 18
+Question 6 - CURRENT ROOM NUMBER: 18 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
 TEAM 4
-Question 0 - CURRENT ROOM NUMBER: 4 DIRECTION: Take your answer, multiply by 24, and add 0. This is your next room number. NEXT ROOM NUMBER: 24
-Question 1 - CURRENT ROOM NUMBER: 24 DIRECTION: Take your answer, multiply by 8, and add 1. This is your next room number. NEXT ROOM NUMBER: 17
-Question 2 - CURRENT ROOM NUMBER: 17 DIRECTION: Take your answer, multiply by 4, and add 0. This is your next room number. NEXT ROOM NUMBER: 12
-Question 3 - CURRENT ROOM NUMBER: 12 DIRECTION: Take your answer, multiply by 5, and add 1. This is your next room number. NEXT ROOM NUMBER: 21
-Question 4 - CURRENT ROOM NUMBER: 21 DIRECTION: Take your answer, multiply by 4, and add 0. This is your next room number. NEXT ROOM NUMBER: 20
-Question 5 - CURRENT ROOM NUMBER: 20 DIRECTION: Take your answer, multiply by 4, and add 1. This is your next room number. NEXT ROOM NUMBER: 25
+Question 0 - CURRENT ROOM NUMBER: 7 DIRECTION: Take your answer and multiply by 28. This is your next room number. NEXT ROOM NUMBER: 28
+Question 1 - CURRENT ROOM NUMBER: 28 DIRECTION: Take your answer and multiply by 4. This is your next room number. NEXT ROOM NUMBER: 8
+Question 2 - CURRENT ROOM NUMBER: 8 DIRECTION: Take your answer, multiply by 1, and add 2. This is your next room number. NEXT ROOM NUMBER: 5
+Question 3 - CURRENT ROOM NUMBER: 5 DIRECTION: Take your answer, multiply by 3, and add 1. This is your next room number. NEXT ROOM NUMBER: 13
+Question 4 - CURRENT ROOM NUMBER: 13 DIRECTION: Take your answer, multiply by 3, and add 1. This is your next room number. NEXT ROOM NUMBER: 16
+Question 5 - CURRENT ROOM NUMBER: 16 DIRECTION: Take your answer, multiply by 4, and add 1. This is your next room number. NEXT ROOM NUMBER: 25
 Question 6 - CURRENT ROOM NUMBER: 25 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
 TEAM 5
-Question 0 - CURRENT ROOM NUMBER: 15 DIRECTION: Take your answer, multiply by 10, and add 0. This is your next room number. NEXT ROOM NUMBER: 10
-Question 1 - CURRENT ROOM NUMBER: 10 DIRECTION: Take your answer, multiply by 14, and add 1. This is your next room number. NEXT ROOM NUMBER: 29
-Question 2 - CURRENT ROOM NUMBER: 29 DIRECTION: Take your answer, multiply by 2, and add 1. This is your next room number. NEXT ROOM NUMBER: 7
-Question 3 - CURRENT ROOM NUMBER: 7 DIRECTION: Take your answer, multiply by 5, and add 0. This is your next room number. NEXT ROOM NUMBER: 20
-Question 4 - CURRENT ROOM NUMBER: 20 DIRECTION: Take your answer, multiply by 4, and add 3. This is your next room number. NEXT ROOM NUMBER: 23
-Question 5 - CURRENT ROOM NUMBER: 23 DIRECTION: Take your answer, multiply by 4, and add 0. This is your next room number. NEXT ROOM NUMBER: 24
-Question 6 - CURRENT ROOM NUMBER: 24 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
-TEAM 6
-Question 0 - CURRENT ROOM NUMBER: 18 DIRECTION: Take your answer, multiply by 16, and add 0. This is your next room number. NEXT ROOM NUMBER: 16
-Question 1 - CURRENT ROOM NUMBER: 16 DIRECTION: Take your answer, multiply by 4, and add 1. This is your next room number. NEXT ROOM NUMBER: 9
-Question 2 - CURRENT ROOM NUMBER: 9 DIRECTION: Take your answer, multiply by 1, and add 2. This is your next room number. NEXT ROOM NUMBER: 5
-Question 3 - CURRENT ROOM NUMBER: 5 DIRECTION: Take your answer, multiply by 7, and add 0. This is your next room number. NEXT ROOM NUMBER: 28
-Question 4 - CURRENT ROOM NUMBER: 28 DIRECTION: Take your answer, multiply by 2, and add 3. This is your next room number. NEXT ROOM NUMBER: 13
-Question 5 - CURRENT ROOM NUMBER: 13 DIRECTION: Take your answer, multiply by 3, and add 2. This is your next room number. NEXT ROOM NUMBER: 20
-Question 6 - CURRENT ROOM NUMBER: 20 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
-TEAM 7
-Question 0 - CURRENT ROOM NUMBER: 25 DIRECTION: Take your answer, multiply by 18, and add 0. This is your next room number. NEXT ROOM NUMBER: 18
-Question 1 - CURRENT ROOM NUMBER: 18 DIRECTION: Take your answer, multiply by 2, and add 1. This is your next room number. NEXT ROOM NUMBER: 5
-Question 2 - CURRENT ROOM NUMBER: 5 DIRECTION: Take your answer, multiply by 6, and add 1. This is your next room number. NEXT ROOM NUMBER: 19
-Question 3 - CURRENT ROOM NUMBER: 19 DIRECTION: Take your answer, multiply by 7, and add 1. This is your next room number. NEXT ROOM NUMBER: 29
-Question 4 - CURRENT ROOM NUMBER: 29 DIRECTION: Take your answer, multiply by 1, and add 1. This is your next room number. NEXT ROOM NUMBER: 6
-Question 5 - CURRENT ROOM NUMBER: 6 DIRECTION: Take your answer, multiply by 1, and add 5. This is your next room number. NEXT ROOM NUMBER: 11
-Question 6 - CURRENT ROOM NUMBER: 11 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
-TEAM 8
-Question 0 - CURRENT ROOM NUMBER: 30 DIRECTION: Your answer is your next room number. NEXT ROOM NUMBER: 1
-Question 1 - CURRENT ROOM NUMBER: 1 DIRECTION: Take your answer, multiply by 10, and add 0. This is your next room number. NEXT ROOM NUMBER: 20
-Question 2 - CURRENT ROOM NUMBER: 20 DIRECTION: Take your answer, multiply by 4, and add 0. This is your next room number. NEXT ROOM NUMBER: 12
-Question 3 - CURRENT ROOM NUMBER: 12 DIRECTION: Take your answer, multiply by 6, and add 2. This is your next room number. NEXT ROOM NUMBER: 26
-Question 4 - CURRENT ROOM NUMBER: 26 DIRECTION: Take your answer, multiply by 5, and add 3. This is your next room number. NEXT ROOM NUMBER: 28
-Question 5 - CURRENT ROOM NUMBER: 28 DIRECTION: Take your answer, multiply by 2, and add 1. This is your next room number. NEXT ROOM NUMBER: 13
-Question 6 - CURRENT ROOM NUMBER: 13 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
-TEAM 9
-Question 0 - CURRENT ROOM NUMBER: 8 DIRECTION: Take your answer, multiply by 5, and add 0. This is your next room number. NEXT ROOM NUMBER: 5
-Question 1 - CURRENT ROOM NUMBER: 5 DIRECTION: Take your answer, multiply by 8, and add 0. This is your next room number. NEXT ROOM NUMBER: 16
-Question 2 - CURRENT ROOM NUMBER: 16 DIRECTION: Take your answer, divide by 1 and throw away the remainder, and subtract 1. This is your next room number. NEXT ROOM NUMBER: 2
-Question 3 - CURRENT ROOM NUMBER: 2 DIRECTION: Take your answer, multiply by 1, and add 2. This is your next room number. NEXT ROOM NUMBER: 6
-Question 4 - CURRENT ROOM NUMBER: 6 DIRECTION: Take your answer, multiply by 4, and add 1. This is your next room number. NEXT ROOM NUMBER: 21
-Question 5 - CURRENT ROOM NUMBER: 21 DIRECTION: Take your answer, multiply by 1, and add 1. This is your next room number. NEXT ROOM NUMBER: 7
-Question 6 - CURRENT ROOM NUMBER: 7 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
-TEAM 10
-Question 0 - CURRENT ROOM NUMBER: 9 DIRECTION: Take your answer, multiply by 26, and add 0. This is your next room number. NEXT ROOM NUMBER: 26
-Question 1 - CURRENT ROOM NUMBER: 26 DIRECTION: Take your answer, multiply by 9, and add 1. This is your next room number. NEXT ROOM NUMBER: 19
-Question 2 - CURRENT ROOM NUMBER: 19 DIRECTION: Take your answer, multiply by 5, and add 2. This is your next room number. NEXT ROOM NUMBER: 17
-Question 3 - CURRENT ROOM NUMBER: 17 DIRECTION: Take your answer, divide by 1 and throw away the remainder, and subtract 1. This is your next room number. NEXT ROOM NUMBER: 3
-Question 4 - CURRENT ROOM NUMBER: 3 DIRECTION: Take your answer, multiply by 4, and add 2. This is your next room number. NEXT ROOM NUMBER: 22
-Question 5 - CURRENT ROOM NUMBER: 22 DIRECTION: Take your answer, multiply by 2, and add 4. This is your next room number. NEXT ROOM NUMBER: 16
-Question 6 - CURRENT ROOM NUMBER: 16 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
-TEAM 11
-Question 0 - CURRENT ROOM NUMBER: 1 DIRECTION: Take your answer, multiply by 13, and add 0. This is your next room number. NEXT ROOM NUMBER: 13
-Question 1 - CURRENT ROOM NUMBER: 13 DIRECTION: Take your answer, multiply by 5, and add 1. This is your next room number. NEXT ROOM NUMBER: 11
-Question 2 - CURRENT ROOM NUMBER: 11 DIRECTION: Take your answer, divide by 1 and throw away the remainder, and subtract 1. This is your next room number. NEXT ROOM NUMBER: 2
-Question 3 - CURRENT ROOM NUMBER: 2 DIRECTION: Take your answer, multiply by 6, and add 0. This is your next room number. NEXT ROOM NUMBER: 24
-Question 4 - CURRENT ROOM NUMBER: 24 DIRECTION: Take your answer, multiply by 5, and add 1. This is your next room number. NEXT ROOM NUMBER: 26
-Question 5 - CURRENT ROOM NUMBER: 26 DIRECTION: Take your answer, divide by 2 and throw away the remainder, and subtract 0. This is your next room number. NEXT ROOM NUMBER: 3
-Question 6 - CURRENT ROOM NUMBER: 3 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
-TEAM 12
-Question 0 - CURRENT ROOM NUMBER: 25 DIRECTION: Take your answer, multiply by 11, and add 0. This is your next room number. NEXT ROOM NUMBER: 11
-Question 1 - CURRENT ROOM NUMBER: 11 DIRECTION: Take your answer, multiply by 9, and add 0. This is your next room number. NEXT ROOM NUMBER: 18
-Question 2 - CURRENT ROOM NUMBER: 18 DIRECTION: Take your answer, multiply by 6, and add 2. This is your next room number. NEXT ROOM NUMBER: 20
-Question 3 - CURRENT ROOM NUMBER: 20 DIRECTION: Take your answer, multiply by 3, and add 0. This is your next room number. NEXT ROOM NUMBER: 12
-Question 4 - CURRENT ROOM NUMBER: 12 DIRECTION: Take your answer, multiply by 4, and add 1. This is your next room number. NEXT ROOM NUMBER: 21
-Question 5 - CURRENT ROOM NUMBER: 21 DIRECTION: Take your answer, multiply by 3, and add 5. This is your next room number. NEXT ROOM NUMBER: 23
-Question 6 - CURRENT ROOM NUMBER: 23 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
-TEAM 13
-Question 0 - CURRENT ROOM NUMBER: 19 DIRECTION: Take your answer, multiply by 8, and add 0. This is your next room number. NEXT ROOM NUMBER: 8
-Question 1 - CURRENT ROOM NUMBER: 8 DIRECTION: Take your answer, multiply by 14, and add 1. This is your next room number. NEXT ROOM NUMBER: 29
-Question 2 - CURRENT ROOM NUMBER: 29 DIRECTION: Take your answer, multiply by 4, and add 1. This is your next room number. NEXT ROOM NUMBER: 13
-Question 3 - CURRENT ROOM NUMBER: 13 DIRECTION: Take your answer, multiply by 6, and add 3. This is your next room number. NEXT ROOM NUMBER: 27
-Question 4 - CURRENT ROOM NUMBER: 27 DIRECTION: Take your answer, multiply by 3, and add 3. This is your next room number. NEXT ROOM NUMBER: 18
-Question 5 - CURRENT ROOM NUMBER: 18 DIRECTION: Take your answer, divide by 1 and throw away the remainder, and subtract 2. This is your next room number. NEXT ROOM NUMBER: 4
-Question 6 - CURRENT ROOM NUMBER: 4 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
-TEAM 14
-Question 0 - CURRENT ROOM NUMBER: 22 DIRECTION: Take your answer, multiply by 16, and add 0. This is your next room number. NEXT ROOM NUMBER: 16
-Question 1 - CURRENT ROOM NUMBER: 16 DIRECTION: Take your answer, multiply by 1, and add 1. This is your next room number. NEXT ROOM NUMBER: 3
-Question 2 - CURRENT ROOM NUMBER: 3 DIRECTION: Take your answer, multiply by 4, and add 2. This is your next room number. NEXT ROOM NUMBER: 14
-Question 3 - CURRENT ROOM NUMBER: 14 DIRECTION: Take your answer, multiply by 2, and add 0. This is your next room number. NEXT ROOM NUMBER: 8
-Question 4 - CURRENT ROOM NUMBER: 8 DIRECTION: Take your answer, multiply by 4, and add 4. This is your next room number. NEXT ROOM NUMBER: 24
-Question 5 - CURRENT ROOM NUMBER: 24 DIRECTION: Take your answer, multiply by 2, and add 5. This is your next room number. NEXT ROOM NUMBER: 17
-Question 6 - CURRENT ROOM NUMBER: 17 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
-TEAM 15
-Question 0 - CURRENT ROOM NUMBER: 25 DIRECTION: Take your answer, multiply by 9, and add 0. This is your next room number. NEXT ROOM NUMBER: 9
-Question 1 - CURRENT ROOM NUMBER: 9 DIRECTION: Take your answer, multiply by 13, and add 1. This is your next room number. NEXT ROOM NUMBER: 27
-Question 2 - CURRENT ROOM NUMBER: 27 DIRECTION: Take your answer, multiply by 5, and add 2. This is your next room number. NEXT ROOM NUMBER: 17
-Question 3 - CURRENT ROOM NUMBER: 17 DIRECTION: Take your answer, multiply by 5, and add 1. This is your next room number. NEXT ROOM NUMBER: 21
-Question 4 - CURRENT ROOM NUMBER: 21 DIRECTION: Take your answer, divide by 1 and throw away the remainder, and subtract 1. This is your next room number. NEXT ROOM NUMBER: 4
-Question 5 - CURRENT ROOM NUMBER: 4 DIRECTION: Take your answer, multiply by 3, and add 4. This is your next room number. NEXT ROOM NUMBER: 22
-Question 6 - CURRENT ROOM NUMBER: 22 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
-TEAM 16
-Question 0 - CURRENT ROOM NUMBER: 11 DIRECTION: Take your answer, multiply by 18, and add 0. This is your next room number. NEXT ROOM NUMBER: 18
-Question 1 - CURRENT ROOM NUMBER: 18 DIRECTION: Take your answer, multiply by 2, and add 1. This is your next room number. NEXT ROOM NUMBER: 5
-Question 2 - CURRENT ROOM NUMBER: 5 DIRECTION: Take your answer, multiply by 4, and add 0. This is your next room number. NEXT ROOM NUMBER: 12
-Question 3 - CURRENT ROOM NUMBER: 12 DIRECTION: Take your answer, multiply by 2, and add 2. This is your next room number. NEXT ROOM NUMBER: 10
-Question 4 - CURRENT ROOM NUMBER: 10 DIRECTION: Take your answer, divide by 5 and throw away the remainder, and subtract 0. This is your next room number. NEXT ROOM NUMBER: 1
-Question 5 - CURRENT ROOM NUMBER: 1 DIRECTION: Take your answer, multiply by 3, and add 5. This is your next room number. NEXT ROOM NUMBER: 23
-Question 6 - CURRENT ROOM NUMBER: 23 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
-TEAM 17
-Question 0 - CURRENT ROOM NUMBER: 4 DIRECTION: Take your answer, multiply by 3, and add 0. This is your next room number. NEXT ROOM NUMBER: 3
-Question 1 - CURRENT ROOM NUMBER: 3 DIRECTION: Your answer is your next room number. NEXT ROOM NUMBER: 2
-Question 2 - CURRENT ROOM NUMBER: 2 DIRECTION: Take your answer, multiply by 4, and add 1. This is your next room number. NEXT ROOM NUMBER: 13
-Question 3 - CURRENT ROOM NUMBER: 13 DIRECTION: Take your answer, multiply by 2, and add 3. This is your next room number. NEXT ROOM NUMBER: 11
-Question 4 - CURRENT ROOM NUMBER: 11 DIRECTION: Take your answer, multiply by 1, and add 2. This is your next room number. NEXT ROOM NUMBER: 7
-Question 5 - CURRENT ROOM NUMBER: 7 DIRECTION: Take your answer, multiply by 1, and add 3. This is your next room number. NEXT ROOM NUMBER: 9
+Question 0 - CURRENT ROOM NUMBER: 2 DIRECTION: Take your answer and multiply by 30. This is your next room number. NEXT ROOM NUMBER: 30
+Question 1 - CURRENT ROOM NUMBER: 30 DIRECTION: Take your answer, multiply by 9, and add 1. This is your next room number. NEXT ROOM NUMBER: 19
+Question 2 - CURRENT ROOM NUMBER: 19 DIRECTION: Take your answer and multiply by 6. This is your next room number. NEXT ROOM NUMBER: 18
+Question 3 - CURRENT ROOM NUMBER: 18 DIRECTION: Take your answer, multiply by 1, and add 1. This is your next room number. NEXT ROOM NUMBER: 5
+Question 4 - CURRENT ROOM NUMBER: 5 DIRECTION: Take your answer, multiply by 5, and add 4. This is your next room number. NEXT ROOM NUMBER: 29
+Question 5 - CURRENT ROOM NUMBER: 29 DIRECTION: Take your answer, multiply by 1, and add 3. This is your next room number. NEXT ROOM NUMBER: 9
 Question 6 - CURRENT ROOM NUMBER: 9 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
-TEAM 18
-Question 0 - CURRENT ROOM NUMBER: 11 DIRECTION: Your answer is your next room number. NEXT ROOM NUMBER: 1
-Question 1 - CURRENT ROOM NUMBER: 1 DIRECTION: Take your answer, multiply by 3, and add 1. This is your next room number. NEXT ROOM NUMBER: 7
-Question 2 - CURRENT ROOM NUMBER: 7 DIRECTION: Take your answer, multiply by 3, and add 0. This is your next room number. NEXT ROOM NUMBER: 9
-Question 3 - CURRENT ROOM NUMBER: 9 DIRECTION: Take your answer, multiply by 3, and add 3. This is your next room number. NEXT ROOM NUMBER: 15
-Question 4 - CURRENT ROOM NUMBER: 15 DIRECTION: Take your answer, multiply by 3, and add 4. This is your next room number. NEXT ROOM NUMBER: 19
-Question 5 - CURRENT ROOM NUMBER: 19 DIRECTION: Take your answer, multiply by 4, and add 4. This is your next room number. NEXT ROOM NUMBER: 28
-Question 6 - CURRENT ROOM NUMBER: 28 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
-TEAM 19
-Question 0 - CURRENT ROOM NUMBER: 27 DIRECTION: Take your answer, multiply by 2, and add 0. This is your next room number. NEXT ROOM NUMBER: 2
-Question 1 - CURRENT ROOM NUMBER: 2 DIRECTION: Take your answer, divide by 2 and throw away the remainder, and subtract 0. This is your next room number. NEXT ROOM NUMBER: 1
-Question 2 - CURRENT ROOM NUMBER: 1 DIRECTION: Take your answer, multiply by 2, and add 2. This is your next room number. NEXT ROOM NUMBER: 8
-Question 3 - CURRENT ROOM NUMBER: 8 DIRECTION: Take your answer, multiply by 3, and add 3. This is your next room number. NEXT ROOM NUMBER: 15
-Question 4 - CURRENT ROOM NUMBER: 15 DIRECTION: Take your answer, multiply by 5, and add 1. This is your next room number. NEXT ROOM NUMBER: 26
-Question 5 - CURRENT ROOM NUMBER: 26 DIRECTION: Take your answer, multiply by 2, and add 2. This is your next room number. NEXT ROOM NUMBER: 14
-Question 6 - CURRENT ROOM NUMBER: 14 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
-TEAM 20
-Question 0 - CURRENT ROOM NUMBER: 9 DIRECTION: Take your answer, multiply by 6, and add 0. This is your next room number. NEXT ROOM NUMBER: 6
-Question 1 - CURRENT ROOM NUMBER: 6 DIRECTION: Take your answer, multiply by 8, and add 1. This is your next room number. NEXT ROOM NUMBER: 17
-Question 2 - CURRENT ROOM NUMBER: 17 DIRECTION: Take your answer, multiply by 9, and add 2. This is your next room number. NEXT ROOM NUMBER: 29
-Question 3 - CURRENT ROOM NUMBER: 29 DIRECTION: Take your answer, multiply by 5, and add 2. This is your next room number. NEXT ROOM NUMBER: 22
-Question 4 - CURRENT ROOM NUMBER: 22 DIRECTION: Take your answer, multiply by 4, and add 3. This is your next room number. NEXT ROOM NUMBER: 23
-Question 5 - CURRENT ROOM NUMBER: 23 DIRECTION: Take your answer, multiply by 4, and add 1. This is your next room number. NEXT ROOM NUMBER: 25
-Question 6 - CURRENT ROOM NUMBER: 25 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
-TEAM 21
-Question 0 - CURRENT ROOM NUMBER: 21 DIRECTION: Take your answer, multiply by 12, and add 0. This is your next room number. NEXT ROOM NUMBER: 12
-Question 1 - CURRENT ROOM NUMBER: 12 DIRECTION: Take your answer, multiply by 4, and add 0. This is your next room number. NEXT ROOM NUMBER: 8
-Question 2 - CURRENT ROOM NUMBER: 8 DIRECTION: Take your answer, multiply by 4, and add 1. This is your next room number. NEXT ROOM NUMBER: 13
-Question 3 - CURRENT ROOM NUMBER: 13 DIRECTION: Take your answer, multiply by 7, and add 0. This is your next room number. NEXT ROOM NUMBER: 28
-Question 4 - CURRENT ROOM NUMBER: 28 DIRECTION: Take your answer, multiply by 3, and add 2. This is your next room number. NEXT ROOM NUMBER: 17
-Question 5 - CURRENT ROOM NUMBER: 17 DIRECTION: Take your answer, multiply by 2, and add 3. This is your next room number. NEXT ROOM NUMBER: 15
-Question 6 - CURRENT ROOM NUMBER: 15 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
-TEAM 22
-Question 0 - CURRENT ROOM NUMBER: 13 DIRECTION: Take your answer, multiply by 19, and add 0. This is your next room number. NEXT ROOM NUMBER: 19
-Question 1 - CURRENT ROOM NUMBER: 19 DIRECTION: Take your answer, multiply by 12, and add 0. This is your next room number. NEXT ROOM NUMBER: 24
-Question 2 - CURRENT ROOM NUMBER: 24 DIRECTION: Take your answer, divide by 1 and throw away the remainder, and subtract 1. This is your next room number. NEXT ROOM NUMBER: 2
-Question 3 - CURRENT ROOM NUMBER: 2 DIRECTION: Take your answer, multiply by 2, and add 1. This is your next room number. NEXT ROOM NUMBER: 9
-Question 4 - CURRENT ROOM NUMBER: 9 DIRECTION: Take your answer, multiply by 4, and add 3. This is your next room number. NEXT ROOM NUMBER: 23
-Question 5 - CURRENT ROOM NUMBER: 23 DIRECTION: Take your answer, multiply by 3, and add 0. This is your next room number. NEXT ROOM NUMBER: 18
-Question 6 - CURRENT ROOM NUMBER: 18 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
-TEAM 23
-Question 0 - CURRENT ROOM NUMBER: 30 DIRECTION: Take your answer, multiply by 14, and add 0. This is your next room number. NEXT ROOM NUMBER: 14
-Question 1 - CURRENT ROOM NUMBER: 14 DIRECTION: Take your answer, multiply by 3, and add 1. This is your next room number. NEXT ROOM NUMBER: 7
-Question 2 - CURRENT ROOM NUMBER: 7 DIRECTION: Take your answer, multiply by 6, and add 1. This is your next room number. NEXT ROOM NUMBER: 19
-Question 3 - CURRENT ROOM NUMBER: 19 DIRECTION: Take your answer, multiply by 6, and add 2. This is your next room number. NEXT ROOM NUMBER: 26
-Question 4 - CURRENT ROOM NUMBER: 26 DIRECTION: Take your answer, multiply by 1, and add 1. This is your next room number. NEXT ROOM NUMBER: 6
-Question 5 - CURRENT ROOM NUMBER: 6 DIRECTION: Take your answer, multiply by 4, and add 0. This is your next room number. NEXT ROOM NUMBER: 24
-Question 6 - CURRENT ROOM NUMBER: 24 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
-TEAM 24
-Question 0 - CURRENT ROOM NUMBER: 12 DIRECTION: Take your answer, multiply by 30, and add 0. This is your next room number. NEXT ROOM NUMBER: 30
-Question 1 - CURRENT ROOM NUMBER: 30 DIRECTION: Take your answer, multiply by 11, and add 0. This is your next room number. NEXT ROOM NUMBER: 22
-Question 2 - CURRENT ROOM NUMBER: 22 DIRECTION: Take your answer, multiply by 3, and add 1. This is your next room number. NEXT ROOM NUMBER: 10
-Question 3 - CURRENT ROOM NUMBER: 10 DIRECTION: Take your answer, multiply by 3, and add 2. This is your next room number. NEXT ROOM NUMBER: 14
-Question 4 - CURRENT ROOM NUMBER: 14 DIRECTION: Your answer is your next room number. NEXT ROOM NUMBER: 5
-Question 5 - CURRENT ROOM NUMBER: 5 DIRECTION: Take your answer, multiply by 1, and add 5. This is your next room number. NEXT ROOM NUMBER: 11
-Question 6 - CURRENT ROOM NUMBER: 11 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
-TEAM 25
-Question 0 - CURRENT ROOM NUMBER: 28 DIRECTION: Take your answer, multiply by 16, and add 0. This is your next room number. NEXT ROOM NUMBER: 16
-Question 1 - CURRENT ROOM NUMBER: 16 DIRECTION: Take your answer, multiply by 10, and add 1. This is your next room number. NEXT ROOM NUMBER: 21
-Question 2 - CURRENT ROOM NUMBER: 21 DIRECTION: Take your answer, multiply by 2, and add 0. This is your next room number. NEXT ROOM NUMBER: 6
-Question 3 - CURRENT ROOM NUMBER: 6 DIRECTION: Take your answer, multiply by 6, and add 3. This is your next room number. NEXT ROOM NUMBER: 27
-Question 4 - CURRENT ROOM NUMBER: 27 DIRECTION: Take your answer, multiply by 2, and add 0. This is your next room number. NEXT ROOM NUMBER: 10
-Question 5 - CURRENT ROOM NUMBER: 10 DIRECTION: Take your answer, multiply by 5, and add 0. This is your next room number. NEXT ROOM NUMBER: 30
-Question 6 - CURRENT ROOM NUMBER: 30 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
-TEAM 26
-Question 0 - CURRENT ROOM NUMBER: 10 DIRECTION: Take your answer, multiply by 21, and add 0. This is your next room number. NEXT ROOM NUMBER: 21
-Question 1 - CURRENT ROOM NUMBER: 21 DIRECTION: Take your answer, multiply by 12, and add 1. This is your next room number. NEXT ROOM NUMBER: 25
-Question 2 - CURRENT ROOM NUMBER: 25 DIRECTION: Take your answer, multiply by 4, and add 2. This is your next room number. NEXT ROOM NUMBER: 14
-Question 3 - CURRENT ROOM NUMBER: 14 DIRECTION: Take your answer, multiply by 4, and add 2. This is your next room number. NEXT ROOM NUMBER: 18
-Question 4 - CURRENT ROOM NUMBER: 18 DIRECTION: Take your answer, divide by 1 and throw away the remainder, and subtract 1. This is your next room number. NEXT ROOM NUMBER: 4
-Question 5 - CURRENT ROOM NUMBER: 4 DIRECTION: Take your answer, multiply by 4, and add 3. This is your next room number. NEXT ROOM NUMBER: 27
-Question 6 - CURRENT ROOM NUMBER: 27 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
-TEAM 27
-Question 0 - CURRENT ROOM NUMBER: 20 DIRECTION: Take your answer, multiply by 22, and add 0. This is your next room number. NEXT ROOM NUMBER: 22
-Question 1 - CURRENT ROOM NUMBER: 22 DIRECTION: Take your answer, multiply by 2, and add 0. This is your next room number. NEXT ROOM NUMBER: 4
-Question 2 - CURRENT ROOM NUMBER: 4 DIRECTION: Take your answer, multiply by 10, and add 0. This is your next room number. NEXT ROOM NUMBER: 30
-Question 3 - CURRENT ROOM NUMBER: 30 DIRECTION: Take your answer, multiply by 5, and add 3. This is your next room number. NEXT ROOM NUMBER: 23
-Question 4 - CURRENT ROOM NUMBER: 23 DIRECTION: Take your answer, multiply by 5, and add 1. This is your next room number. NEXT ROOM NUMBER: 26
-Question 5 - CURRENT ROOM NUMBER: 26 DIRECTION: Take your answer, multiply by 1, and add 2. This is your next room number. NEXT ROOM NUMBER: 8
-Question 6 - CURRENT ROOM NUMBER: 8 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
-TEAM 28
-Question 0 - CURRENT ROOM NUMBER: 27 DIRECTION: Take your answer, multiply by 5, and add 0. This is your next room number. NEXT ROOM NUMBER: 5
-Question 1 - CURRENT ROOM NUMBER: 5 DIRECTION: Take your answer, multiply by 7, and add 0. This is your next room number. NEXT ROOM NUMBER: 14
-Question 2 - CURRENT ROOM NUMBER: 14 DIRECTION: Take your answer, multiply by 2, and add 2. This is your next room number. NEXT ROOM NUMBER: 8
-Question 3 - CURRENT ROOM NUMBER: 8 DIRECTION: Take your answer, divide by 2 and throw away the remainder, and subtract 0. This is your next room number. NEXT ROOM NUMBER: 2
-Question 4 - CURRENT ROOM NUMBER: 2 DIRECTION: Take your answer, multiply by 3, and add 0. This is your next room number. NEXT ROOM NUMBER: 15
-Question 5 - CURRENT ROOM NUMBER: 15 DIRECTION: Take your answer, multiply by 3, and add 1. This is your next room number. NEXT ROOM NUMBER: 19
+TEAM 6
+Question 0 - CURRENT ROOM NUMBER: 21 DIRECTION: Take your answer and multiply by 12. This is your next room number. NEXT ROOM NUMBER: 12
+Question 1 - CURRENT ROOM NUMBER: 12 DIRECTION: Take your answer, multiply by 14, and add 1. This is your next room number. NEXT ROOM NUMBER: 29
+Question 2 - CURRENT ROOM NUMBER: 29 DIRECTION: Take your answer, multiply by 6, and add 2. This is your next room number. NEXT ROOM NUMBER: 20
+Question 3 - CURRENT ROOM NUMBER: 20 DIRECTION: Take your answer, multiply by 1, and add 3. This is your next room number. NEXT ROOM NUMBER: 7
+Question 4 - CURRENT ROOM NUMBER: 7 DIRECTION: Take your answer, multiply by 2, and add 1. This is your next room number. NEXT ROOM NUMBER: 11
+Question 5 - CURRENT ROOM NUMBER: 11 DIRECTION: Take your answer, multiply by 2, and add 5. This is your next room number. NEXT ROOM NUMBER: 17
+Question 6 - CURRENT ROOM NUMBER: 17 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
+TEAM 7
+Question 0 - CURRENT ROOM NUMBER: 30 DIRECTION: Take your answer and multiply by 21. This is your next room number. NEXT ROOM NUMBER: 21
+Question 1 - CURRENT ROOM NUMBER: 21 DIRECTION: Take your answer and multiply by 7. This is your next room number. NEXT ROOM NUMBER: 14
+Question 2 - CURRENT ROOM NUMBER: 14 DIRECTION: Take your answer and multiply by 6. This is your next room number. NEXT ROOM NUMBER: 18
+Question 3 - CURRENT ROOM NUMBER: 18 DIRECTION: Take your answer and divide by 4 and throw away the remainder. This is your next room number. NEXT ROOM NUMBER: 1
+Question 4 - CURRENT ROOM NUMBER: 1 DIRECTION: Take your answer, multiply by 2, and add 1. This is your next room number. NEXT ROOM NUMBER: 11
+Question 5 - CURRENT ROOM NUMBER: 11 DIRECTION: Take your answer and divide by 2 and throw away the remainder. This is your next room number. NEXT ROOM NUMBER: 3
+Question 6 - CURRENT ROOM NUMBER: 3 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
+TEAM 8
+Question 0 - CURRENT ROOM NUMBER: 22 DIRECTION: Take your answer and multiply by 11. This is your next room number. NEXT ROOM NUMBER: 11
+Question 1 - CURRENT ROOM NUMBER: 11 DIRECTION: Take your answer and divide by 2 and throw away the remainder. This is your next room number. NEXT ROOM NUMBER: 1
+Question 2 - CURRENT ROOM NUMBER: 1 DIRECTION: Take your answer, multiply by 2, and add 1. This is your next room number. NEXT ROOM NUMBER: 7
+Question 3 - CURRENT ROOM NUMBER: 7 DIRECTION: Take your answer, multiply by 3, and add 2. This is your next room number. NEXT ROOM NUMBER: 14
+Question 4 - CURRENT ROOM NUMBER: 14 DIRECTION: Take your answer, divide by 1 and throw away the remainder, and subtract 1. This is your next room number. NEXT ROOM NUMBER: 4
+Question 5 - CURRENT ROOM NUMBER: 4 DIRECTION: Take your answer, multiply by 4, and add 2. This is your next room number. NEXT ROOM NUMBER: 26
+Question 6 - CURRENT ROOM NUMBER: 26 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
+TEAM 9
+Question 0 - CURRENT ROOM NUMBER: 23 DIRECTION: Take your answer and multiply by 3. This is your next room number. NEXT ROOM NUMBER: 3
+Question 1 - CURRENT ROOM NUMBER: 3 DIRECTION: Take your answer and multiply by 12. This is your next room number. NEXT ROOM NUMBER: 24
+Question 2 - CURRENT ROOM NUMBER: 24 DIRECTION: Take your answer and multiply by 2. This is your next room number. NEXT ROOM NUMBER: 6
+Question 3 - CURRENT ROOM NUMBER: 6 DIRECTION: Take your answer, multiply by 2, and add 2. This is your next room number. NEXT ROOM NUMBER: 10
+Question 4 - CURRENT ROOM NUMBER: 10 DIRECTION: Your answer is your next room number. NEXT ROOM NUMBER: 5
+Question 5 - CURRENT ROOM NUMBER: 5 DIRECTION: Take your answer, multiply by 1, and add 3. This is your next room number. NEXT ROOM NUMBER: 9
+Question 6 - CURRENT ROOM NUMBER: 9 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
+TEAM 10
+Question 0 - CURRENT ROOM NUMBER: 1 DIRECTION: Take your answer and multiply by 12. This is your next room number. NEXT ROOM NUMBER: 12
+Question 1 - CURRENT ROOM NUMBER: 12 DIRECTION: Take your answer, multiply by 4, and add 1. This is your next room number. NEXT ROOM NUMBER: 9
+Question 2 - CURRENT ROOM NUMBER: 9 DIRECTION: Take your answer, multiply by 4, and add 2. This is your next room number. NEXT ROOM NUMBER: 14
+Question 3 - CURRENT ROOM NUMBER: 14 DIRECTION: Take your answer, multiply by 2, and add 3. This is your next room number. NEXT ROOM NUMBER: 11
+Question 4 - CURRENT ROOM NUMBER: 11 DIRECTION: Take your answer, multiply by 4, and add 2. This is your next room number. NEXT ROOM NUMBER: 22
+Question 5 - CURRENT ROOM NUMBER: 22 DIRECTION: Take your answer and divide by 3 and throw away the remainder. This is your next room number. NEXT ROOM NUMBER: 2
+Question 6 - CURRENT ROOM NUMBER: 2 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
+TEAM 11
+Question 0 - CURRENT ROOM NUMBER: 21 DIRECTION: Take your answer and multiply by 27. This is your next room number. NEXT ROOM NUMBER: 27
+Question 1 - CURRENT ROOM NUMBER: 27 DIRECTION: Take your answer, multiply by 9, and add 1. This is your next room number. NEXT ROOM NUMBER: 19
+Question 2 - CURRENT ROOM NUMBER: 19 DIRECTION: Take your answer, multiply by 7, and add 1. This is your next room number. NEXT ROOM NUMBER: 22
+Question 3 - CURRENT ROOM NUMBER: 22 DIRECTION: Take your answer, multiply by 5, and add 3. This is your next room number. NEXT ROOM NUMBER: 23
+Question 4 - CURRENT ROOM NUMBER: 23 DIRECTION: Take your answer, multiply by 2, and add 3. This is your next room number. NEXT ROOM NUMBER: 13
+Question 5 - CURRENT ROOM NUMBER: 13 DIRECTION: Take your answer and multiply by 2. This is your next room number. NEXT ROOM NUMBER: 12
+Question 6 - CURRENT ROOM NUMBER: 12 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
+TEAM 12
+Question 0 - CURRENT ROOM NUMBER: 2 DIRECTION: Take your answer and multiply by 6. This is your next room number. NEXT ROOM NUMBER: 6
+Question 1 - CURRENT ROOM NUMBER: 6 DIRECTION: Take your answer, multiply by 5, and add 1. This is your next room number. NEXT ROOM NUMBER: 11
+Question 2 - CURRENT ROOM NUMBER: 11 DIRECTION: Take your answer, multiply by 6, and add 1. This is your next room number. NEXT ROOM NUMBER: 19
+Question 3 - CURRENT ROOM NUMBER: 19 DIRECTION: Take your answer, divide by 1 and throw away the remainder, and subtract 1. This is your next room number. NEXT ROOM NUMBER: 3
+Question 4 - CURRENT ROOM NUMBER: 3 DIRECTION: Take your answer, multiply by 5, and add 3. This is your next room number. NEXT ROOM NUMBER: 28
+Question 5 - CURRENT ROOM NUMBER: 28 DIRECTION: Take your answer, multiply by 4, and add 5. This is your next room number. NEXT ROOM NUMBER: 29
+Question 6 - CURRENT ROOM NUMBER: 29 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
+TEAM 13
+Question 0 - CURRENT ROOM NUMBER: 28 DIRECTION: Take your answer and multiply by 8. This is your next room number. NEXT ROOM NUMBER: 8
+Question 1 - CURRENT ROOM NUMBER: 8 DIRECTION: Take your answer and multiply by 7. This is your next room number. NEXT ROOM NUMBER: 14
+Question 2 - CURRENT ROOM NUMBER: 14 DIRECTION: Take your answer, divide by 1 and throw away the remainder, and subtract 1. This is your next room number. NEXT ROOM NUMBER: 2
+Question 3 - CURRENT ROOM NUMBER: 2 DIRECTION: Take your answer, multiply by 7, and add 2. This is your next room number. NEXT ROOM NUMBER: 30
+Question 4 - CURRENT ROOM NUMBER: 30 DIRECTION: Take your answer, multiply by 4, and add 1. This is your next room number. NEXT ROOM NUMBER: 21
+Question 5 - CURRENT ROOM NUMBER: 21 DIRECTION: Take your answer and divide by 6 and throw away the remainder. This is your next room number. NEXT ROOM NUMBER: 1
+Question 6 - CURRENT ROOM NUMBER: 1 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
+TEAM 14
+Question 0 - CURRENT ROOM NUMBER: 16 DIRECTION: Take your answer and multiply by 30. This is your next room number. NEXT ROOM NUMBER: 30
+Question 1 - CURRENT ROOM NUMBER: 30 DIRECTION: Take your answer, multiply by 12, and add 1. This is your next room number. NEXT ROOM NUMBER: 25
+Question 2 - CURRENT ROOM NUMBER: 25 DIRECTION: Take your answer, multiply by 1, and add 1. This is your next room number. NEXT ROOM NUMBER: 4
+Question 3 - CURRENT ROOM NUMBER: 4 DIRECTION: Take your answer, multiply by 3, and add 3. This is your next room number. NEXT ROOM NUMBER: 15
+Question 4 - CURRENT ROOM NUMBER: 15 DIRECTION: Take your answer, multiply by 4, and add 2. This is your next room number. NEXT ROOM NUMBER: 22
+Question 5 - CURRENT ROOM NUMBER: 22 DIRECTION: Take your answer, multiply by 3, and add 1. This is your next room number. NEXT ROOM NUMBER: 19
 Question 6 - CURRENT ROOM NUMBER: 19 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
+TEAM 15
+Question 0 - CURRENT ROOM NUMBER: 8 DIRECTION: Take your answer and multiply by 21. This is your next room number. NEXT ROOM NUMBER: 21
+Question 1 - CURRENT ROOM NUMBER: 21 DIRECTION: Take your answer and multiply by 13. This is your next room number. NEXT ROOM NUMBER: 26
+Question 2 - CURRENT ROOM NUMBER: 26 DIRECTION: Take your answer and multiply by 3. This is your next room number. NEXT ROOM NUMBER: 9
+Question 3 - CURRENT ROOM NUMBER: 9 DIRECTION: Take your answer, multiply by 7, and add 1. This is your next room number. NEXT ROOM NUMBER: 29
+Question 4 - CURRENT ROOM NUMBER: 29 DIRECTION: Take your answer, multiply by 3, and add 1. This is your next room number. NEXT ROOM NUMBER: 16
+Question 5 - CURRENT ROOM NUMBER: 16 DIRECTION: Take your answer, multiply by 2, and add 3. This is your next room number. NEXT ROOM NUMBER: 15
+Question 6 - CURRENT ROOM NUMBER: 15 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
+TEAM 16
+Question 0 - CURRENT ROOM NUMBER: 15 DIRECTION: Take your answer and multiply by 21. This is your next room number. NEXT ROOM NUMBER: 21
+Question 1 - CURRENT ROOM NUMBER: 21 DIRECTION: Take your answer and multiply by 9. This is your next room number. NEXT ROOM NUMBER: 18
+Question 2 - CURRENT ROOM NUMBER: 18 DIRECTION: Take your answer and multiply by 4. This is your next room number. NEXT ROOM NUMBER: 12
+Question 3 - CURRENT ROOM NUMBER: 12 DIRECTION: Take your answer and multiply by 6. This is your next room number. NEXT ROOM NUMBER: 24
+Question 4 - CURRENT ROOM NUMBER: 24 DIRECTION: Take your answer, multiply by 5, and add 3. This is your next room number. NEXT ROOM NUMBER: 28
+Question 5 - CURRENT ROOM NUMBER: 28 DIRECTION: Take your answer, divide by 1 and throw away the remainder, and subtract 2. This is your next room number. NEXT ROOM NUMBER: 4
+Question 6 - CURRENT ROOM NUMBER: 4 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
+TEAM 17
+Question 0 - CURRENT ROOM NUMBER: 19 DIRECTION: Take your answer and multiply by 17. This is your next room number. NEXT ROOM NUMBER: 17
+Question 1 - CURRENT ROOM NUMBER: 17 DIRECTION: Take your answer and multiply by 8. This is your next room number. NEXT ROOM NUMBER: 16
+Question 2 - CURRENT ROOM NUMBER: 16 DIRECTION: Take your answer and multiply by 2. This is your next room number. NEXT ROOM NUMBER: 6
+Question 3 - CURRENT ROOM NUMBER: 6 DIRECTION: Take your answer and multiply by 7. This is your next room number. NEXT ROOM NUMBER: 28
+Question 4 - CURRENT ROOM NUMBER: 28 DIRECTION: Take your answer and multiply by 4. This is your next room number. NEXT ROOM NUMBER: 20
+Question 5 - CURRENT ROOM NUMBER: 20 DIRECTION: Take your answer, multiply by 4, and add 3. This is your next room number. NEXT ROOM NUMBER: 27
+Question 6 - CURRENT ROOM NUMBER: 27 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
+TEAM 18
+Question 0 - CURRENT ROOM NUMBER: 6 DIRECTION: Take your answer and multiply by 13. This is your next room number. NEXT ROOM NUMBER: 13
+Question 1 - CURRENT ROOM NUMBER: 13 DIRECTION: Take your answer and multiply by 7. This is your next room number. NEXT ROOM NUMBER: 14
+Question 2 - CURRENT ROOM NUMBER: 14 DIRECTION: Take your answer, multiply by 7, and add 2. This is your next room number. NEXT ROOM NUMBER: 23
+Question 3 - CURRENT ROOM NUMBER: 23 DIRECTION: Take your answer, multiply by 7, and add 2. This is your next room number. NEXT ROOM NUMBER: 30
+Question 4 - CURRENT ROOM NUMBER: 30 DIRECTION: Take your answer and divide by 2 and throw away the remainder. This is your next room number. NEXT ROOM NUMBER: 2
+Question 5 - CURRENT ROOM NUMBER: 2 DIRECTION: Take your answer and multiply by 4. This is your next room number. NEXT ROOM NUMBER: 24
+Question 6 - CURRENT ROOM NUMBER: 24 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
+TEAM 19
+Question 0 - CURRENT ROOM NUMBER: 8 DIRECTION: Take your answer and multiply by 3. This is your next room number. NEXT ROOM NUMBER: 3
+Question 1 - CURRENT ROOM NUMBER: 3 DIRECTION: Take your answer, multiply by 13, and add 1. This is your next room number. NEXT ROOM NUMBER: 27
+Question 2 - CURRENT ROOM NUMBER: 27 DIRECTION: Take your answer, multiply by 3, and add 2. This is your next room number. NEXT ROOM NUMBER: 11
+Question 3 - CURRENT ROOM NUMBER: 11 DIRECTION: Take your answer, multiply by 4, and add 1. This is your next room number. NEXT ROOM NUMBER: 17
+Question 4 - CURRENT ROOM NUMBER: 17 DIRECTION: Take your answer, multiply by 1, and add 4. This is your next room number. NEXT ROOM NUMBER: 9
+Question 5 - CURRENT ROOM NUMBER: 9 DIRECTION: Take your answer, multiply by 4, and add 2. This is your next room number. NEXT ROOM NUMBER: 26
+Question 6 - CURRENT ROOM NUMBER: 26 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
+TEAM 20
+Question 0 - CURRENT ROOM NUMBER: 8 DIRECTION: Take your answer and multiply by 3. This is your next room number. NEXT ROOM NUMBER: 3
+Question 1 - CURRENT ROOM NUMBER: 3 DIRECTION: Take your answer, multiply by 6, and add 1. This is your next room number. NEXT ROOM NUMBER: 13
+Question 2 - CURRENT ROOM NUMBER: 13 DIRECTION: Take your answer, multiply by 5, and add 2. This is your next room number. NEXT ROOM NUMBER: 17
+Question 3 - CURRENT ROOM NUMBER: 17 DIRECTION: Take your answer, multiply by 6, and add 2. This is your next room number. NEXT ROOM NUMBER: 26
+Question 4 - CURRENT ROOM NUMBER: 26 DIRECTION: Take your answer, multiply by 2, and add 2. This is your next room number. NEXT ROOM NUMBER: 12
+Question 5 - CURRENT ROOM NUMBER: 12 DIRECTION: Take your answer, multiply by 4, and add 4. This is your next room number. NEXT ROOM NUMBER: 28
+Question 6 - CURRENT ROOM NUMBER: 28 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
+TEAM 21
+Question 0 - CURRENT ROOM NUMBER: 8 DIRECTION: Take your answer and multiply by 9. This is your next room number. NEXT ROOM NUMBER: 9
+Question 1 - CURRENT ROOM NUMBER: 9 DIRECTION: Take your answer, multiply by 3, and add 1. This is your next room number. NEXT ROOM NUMBER: 7
+Question 2 - CURRENT ROOM NUMBER: 7 DIRECTION: Take your answer, multiply by 6, and add 2. This is your next room number. NEXT ROOM NUMBER: 20
+Question 3 - CURRENT ROOM NUMBER: 20 DIRECTION: Take your answer, multiply by 4, and add 3. This is your next room number. NEXT ROOM NUMBER: 19
+Question 4 - CURRENT ROOM NUMBER: 19 DIRECTION: Take your answer and multiply by 2. This is your next room number. NEXT ROOM NUMBER: 10
+Question 5 - CURRENT ROOM NUMBER: 10 DIRECTION: Take your answer, multiply by 3, and add 5. This is your next room number. NEXT ROOM NUMBER: 23
+Question 6 - CURRENT ROOM NUMBER: 23 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
+TEAM 22
+Question 0 - CURRENT ROOM NUMBER: 12 DIRECTION: Take your answer and multiply by 16. This is your next room number. NEXT ROOM NUMBER: 16
+Question 1 - CURRENT ROOM NUMBER: 16 DIRECTION: Take your answer, multiply by 6, and add 1. This is your next room number. NEXT ROOM NUMBER: 13
+Question 2 - CURRENT ROOM NUMBER: 13 DIRECTION: Take your answer and multiply by 2. This is your next room number. NEXT ROOM NUMBER: 6
+Question 3 - CURRENT ROOM NUMBER: 6 DIRECTION: Take your answer, multiply by 7, and add 2. This is your next room number. NEXT ROOM NUMBER: 30
+Question 4 - CURRENT ROOM NUMBER: 30 DIRECTION: Take your answer, divide by 1 and throw away the remainder, and subtract 2. This is your next room number. NEXT ROOM NUMBER: 3
+Question 5 - CURRENT ROOM NUMBER: 3 DIRECTION: Take your answer and divide by 6 and throw away the remainder. This is your next room number. NEXT ROOM NUMBER: 1
+Question 6 - CURRENT ROOM NUMBER: 1 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
+TEAM 23
+Question 0 - CURRENT ROOM NUMBER: 4 DIRECTION: Take your answer and multiply by 26. This is your next room number. NEXT ROOM NUMBER: 26
+Question 1 - CURRENT ROOM NUMBER: 26 DIRECTION: Your answer is your next room number. NEXT ROOM NUMBER: 2
+Question 2 - CURRENT ROOM NUMBER: 2 DIRECTION: Take your answer, multiply by 3, and add 1. This is your next room number. NEXT ROOM NUMBER: 10
+Question 3 - CURRENT ROOM NUMBER: 10 DIRECTION: Take your answer, multiply by 7, and add 1. This is your next room number. NEXT ROOM NUMBER: 29
+Question 4 - CURRENT ROOM NUMBER: 29 DIRECTION: Take your answer and multiply by 3. This is your next room number. NEXT ROOM NUMBER: 15
+Question 5 - CURRENT ROOM NUMBER: 15 DIRECTION: Take your answer, multiply by 3, and add 4. This is your next room number. NEXT ROOM NUMBER: 22
+Question 6 - CURRENT ROOM NUMBER: 22 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
+TEAM 24
+Question 0 - CURRENT ROOM NUMBER: 15 DIRECTION: Take your answer and multiply by 25. This is your next room number. NEXT ROOM NUMBER: 25
+Question 1 - CURRENT ROOM NUMBER: 25 DIRECTION: Take your answer and multiply by 6. This is your next room number. NEXT ROOM NUMBER: 12
+Question 2 - CURRENT ROOM NUMBER: 12 DIRECTION: Take your answer, divide by 1 and throw away the remainder, and subtract 1. This is your next room number. NEXT ROOM NUMBER: 2
+Question 3 - CURRENT ROOM NUMBER: 2 DIRECTION: Take your answer, multiply by 4, and add 3. This is your next room number. NEXT ROOM NUMBER: 19
+Question 4 - CURRENT ROOM NUMBER: 19 DIRECTION: Take your answer, multiply by 1, and add 2. This is your next room number. NEXT ROOM NUMBER: 7
+Question 5 - CURRENT ROOM NUMBER: 7 DIRECTION: Take your answer, multiply by 3, and add 2. This is your next room number. NEXT ROOM NUMBER: 20
+Question 6 - CURRENT ROOM NUMBER: 20 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
+TEAM 25
+Question 0 - CURRENT ROOM NUMBER: 29 DIRECTION: Take your answer and multiply by 23. This is your next room number. NEXT ROOM NUMBER: 23
+Question 1 - CURRENT ROOM NUMBER: 23 DIRECTION: Take your answer and multiply by 12. This is your next room number. NEXT ROOM NUMBER: 24
+Question 2 - CURRENT ROOM NUMBER: 24 DIRECTION: Take your answer, multiply by 1, and add 2. This is your next room number. NEXT ROOM NUMBER: 5
+Question 3 - CURRENT ROOM NUMBER: 5 DIRECTION: Take your answer, multiply by 1, and add 2. This is your next room number. NEXT ROOM NUMBER: 6
+Question 4 - CURRENT ROOM NUMBER: 6 DIRECTION: Take your answer, multiply by 3, and add 3. This is your next room number. NEXT ROOM NUMBER: 18
+Question 5 - CURRENT ROOM NUMBER: 18 DIRECTION: Take your answer, multiply by 3, and add 2. This is your next room number. NEXT ROOM NUMBER: 20
+Question 6 - CURRENT ROOM NUMBER: 20 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
+TEAM 26
+Question 0 - CURRENT ROOM NUMBER: 18 DIRECTION: Take your answer and multiply by 5. This is your next room number. NEXT ROOM NUMBER: 5
+Question 1 - CURRENT ROOM NUMBER: 5 DIRECTION: Take your answer, multiply by 12, and add 1. This is your next room number. NEXT ROOM NUMBER: 25
+Question 2 - CURRENT ROOM NUMBER: 25 DIRECTION: Take your answer, multiply by 3, and add 1. This is your next room number. NEXT ROOM NUMBER: 10
+Question 3 - CURRENT ROOM NUMBER: 10 DIRECTION: Your answer is your next room number. NEXT ROOM NUMBER: 4
+Question 4 - CURRENT ROOM NUMBER: 4 DIRECTION: Take your answer, multiply by 4, and add 3. This is your next room number. NEXT ROOM NUMBER: 23
+Question 5 - CURRENT ROOM NUMBER: 23 DIRECTION: Take your answer, multiply by 2, and add 5. This is your next room number. NEXT ROOM NUMBER: 17
+Question 6 - CURRENT ROOM NUMBER: 17 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
+TEAM 27
+Question 0 - CURRENT ROOM NUMBER: 20 DIRECTION: Take your answer and multiply by 26. This is your next room number. NEXT ROOM NUMBER: 26
+Question 1 - CURRENT ROOM NUMBER: 26 DIRECTION: Take your answer, multiply by 2, and add 1. This is your next room number. NEXT ROOM NUMBER: 5
+Question 2 - CURRENT ROOM NUMBER: 5 DIRECTION: Take your answer, multiply by 9, and add 1. This is your next room number. NEXT ROOM NUMBER: 28
+Question 3 - CURRENT ROOM NUMBER: 28 DIRECTION: Take your answer, multiply by 3, and add 2. This is your next room number. NEXT ROOM NUMBER: 14
+Question 4 - CURRENT ROOM NUMBER: 14 DIRECTION: Take your answer and multiply by 3. This is your next room number. NEXT ROOM NUMBER: 15
+Question 5 - CURRENT ROOM NUMBER: 15 DIRECTION: Take your answer and multiply by 4. This is your next room number. NEXT ROOM NUMBER: 24
+Question 6 - CURRENT ROOM NUMBER: 24 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
+TEAM 28
+Question 0 - CURRENT ROOM NUMBER: 27 DIRECTION: Take your answer and multiply by 23. This is your next room number. NEXT ROOM NUMBER: 23
+Question 1 - CURRENT ROOM NUMBER: 23 DIRECTION: Take your answer, multiply by 8, and add 1. This is your next room number. NEXT ROOM NUMBER: 17
+Question 2 - CURRENT ROOM NUMBER: 17 DIRECTION: Take your answer and divide by 3 and throw away the remainder. This is your next room number. NEXT ROOM NUMBER: 1
+Question 3 - CURRENT ROOM NUMBER: 1 DIRECTION: Take your answer, multiply by 2, and add 1. This is your next room number. NEXT ROOM NUMBER: 9
+Question 4 - CURRENT ROOM NUMBER: 9 DIRECTION: Take your answer, multiply by 1, and add 2. This is your next room number. NEXT ROOM NUMBER: 7
+Question 5 - CURRENT ROOM NUMBER: 7 DIRECTION: Take your answer, multiply by 1, and add 2. This is your next room number. NEXT ROOM NUMBER: 8
+Question 6 - CURRENT ROOM NUMBER: 8 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
 TEAM 29
-Question 0 - CURRENT ROOM NUMBER: 26 DIRECTION: Take your answer, multiply by 28, and add 0. This is your next room number. NEXT ROOM NUMBER: 28
-Question 1 - CURRENT ROOM NUMBER: 28 DIRECTION: Take your answer, multiply by 8, and add 1. This is your next room number. NEXT ROOM NUMBER: 17
-Question 2 - CURRENT ROOM NUMBER: 17 DIRECTION: Your answer is your next room number. NEXT ROOM NUMBER: 3
-Question 3 - CURRENT ROOM NUMBER: 3 DIRECTION: Take your answer, multiply by 2, and add 2. This is your next room number. NEXT ROOM NUMBER: 10
-Question 4 - CURRENT ROOM NUMBER: 10 DIRECTION: Take your answer, multiply by 5, and add 4. This is your next room number. NEXT ROOM NUMBER: 29
-Question 5 - CURRENT ROOM NUMBER: 29 DIRECTION: Take your answer, divide by 1 and throw away the remainder, and subtract 1. This is your next room number. NEXT ROOM NUMBER: 5
-Question 6 - CURRENT ROOM NUMBER: 5 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
+Question 0 - CURRENT ROOM NUMBER: 20 DIRECTION: Take your answer and multiply by 16. This is your next room number. NEXT ROOM NUMBER: 16
+Question 1 - CURRENT ROOM NUMBER: 16 DIRECTION: Take your answer and multiply by 5. This is your next room number. NEXT ROOM NUMBER: 10
+Question 2 - CURRENT ROOM NUMBER: 10 DIRECTION: Take your answer, multiply by 1, and add 2. This is your next room number. NEXT ROOM NUMBER: 5
+Question 3 - CURRENT ROOM NUMBER: 5 DIRECTION: Take your answer, multiply by 7, and add 2. This is your next room number. NEXT ROOM NUMBER: 30
+Question 4 - CURRENT ROOM NUMBER: 30 DIRECTION: Take your answer, multiply by 5, and add 2. This is your next room number. NEXT ROOM NUMBER: 27
+Question 5 - CURRENT ROOM NUMBER: 27 DIRECTION: Take your answer, divide by 1 and throw away the remainder, and subtract 2. This is your next room number. NEXT ROOM NUMBER: 4
+Question 6 - CURRENT ROOM NUMBER: 4 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
 TEAM 30
-Question 0 - CURRENT ROOM NUMBER: 29 DIRECTION: Take your answer, multiply by 20, and add 0. This is your next room number. NEXT ROOM NUMBER: 20
-Question 1 - CURRENT ROOM NUMBER: 20 DIRECTION: Take your answer, multiply by 15, and add 0. This is your next room number. NEXT ROOM NUMBER: 30
-Question 2 - CURRENT ROOM NUMBER: 30 DIRECTION: Take your answer, divide by 3 and throw away the remainder, and subtract 0. This is your next room number. NEXT ROOM NUMBER: 1
-Question 3 - CURRENT ROOM NUMBER: 1 DIRECTION: Take your answer, multiply by 1, and add 3. This is your next room number. NEXT ROOM NUMBER: 7
-Question 4 - CURRENT ROOM NUMBER: 7 DIRECTION: Take your answer, multiply by 2, and add 4. This is your next room number. NEXT ROOM NUMBER: 14
-Question 5 - CURRENT ROOM NUMBER: 14 DIRECTION: Take your answer, multiply by 2, and add 4. This is your next room number. NEXT ROOM NUMBER: 16
-Question 6 - CURRENT ROOM NUMBER: 16 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
+Question 0 - CURRENT ROOM NUMBER: 22 DIRECTION: Take your answer and multiply by 24. This is your next room number. NEXT ROOM NUMBER: 24
+Question 1 - CURRENT ROOM NUMBER: 24 DIRECTION: Take your answer, multiply by 5, and add 1. This is your next room number. NEXT ROOM NUMBER: 11
+Question 2 - CURRENT ROOM NUMBER: 11 DIRECTION: Take your answer, multiply by 1, and add 1. This is your next room number. NEXT ROOM NUMBER: 4
+Question 3 - CURRENT ROOM NUMBER: 4 DIRECTION: Take your answer and multiply by 4. This is your next room number. NEXT ROOM NUMBER: 16
+Question 4 - CURRENT ROOM NUMBER: 16 DIRECTION: Take your answer, multiply by 5, and add 2. This is your next room number. NEXT ROOM NUMBER: 27
+Question 5 - CURRENT ROOM NUMBER: 27 DIRECTION: Take your answer, multiply by 4, and add 1. This is your next room number. NEXT ROOM NUMBER: 25
+Question 6 - CURRENT ROOM NUMBER: 25 DIRECTION: Return to the cafeteria. NEXT ROOM NUMBER: Cafeteria
