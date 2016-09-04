@@ -3,7 +3,7 @@ This is a program to generate an Orienteering Round.  The program should output 
 
 ## Configuration
 
-In the file "rooms.txt", list all room numbers to be used in the generation.  This can be sequential or out of order.
+In the file "rooms.txt", list all room numbers to be used in the generation.  This can be sequential or out of order - they will be in order before scrambling.
 
 In the file "ans.txt", list the answers to questions in correct order so the program can generate mappings between answers and room numbers.
 
